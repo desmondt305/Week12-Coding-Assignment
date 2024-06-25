@@ -1,0 +1,57 @@
+
+{
+  "houses": [
+    {
+      "id": "1",
+      "name": "West Palm Beach",
+      "rooms": [
+        {
+          "name": "Kitchen",
+          "area": 100
+        },
+        {
+          "name": "Bathroom",
+          "area": 80
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Miami",
+      "rooms": [
+        {
+          "name": "Kitchen",
+          "area": 10
+        },
+        {
+          "name": "Bathroom",
+          "area": 8
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Tampa",
+      "rooms": [
+        {
+          "name": "Kitchen",
+          "area": 10
+        },
+        {
+          "name": "Bathroom",
+          "area": 8
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "My new House",
+      "rooms": []
+    },
+    {
+      "id": 5,
+      "name": "Chicago",
+      "rooms": []
+    }
+  ]
+}
